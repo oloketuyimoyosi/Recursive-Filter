@@ -79,14 +79,14 @@ git clone [https://github.com/YOUR_USERNAME/LTI-System-FPGA.git](https://github.
 ```
 ### Open in Quartus Prime:
 
-*Open the .qpf project file.
+* Open the .qpf project file.
 
 ### Compile:
 
-*Run Analysis & Synthesis to check for errors.
-*Run Fitter and Assembler to generate the bitstream.
+* Run Analysis & Synthesis to check for errors.
+* Run Fitter and Assembler to generate the bitstream.
 
 ### Program the Board:
 
-*Connect the DE10-Lite via USB.
-*Open the Programmer tool and upload the .sof file.
+* Connect the DE10-Lite via USB.
+* Open the Programmer tool and upload the .sof file.
